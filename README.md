@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Hunjoo Lee
+### Hi there 👋 Welcome to Hunjoo's work storage.
 - ✨ Interests: 📊 Data Science 💻 Machine Learning, Deep Learning
 - 🔣 Language: Python, R, SQL
 - 📟 Software: SQLite, Microsoft SQL Server, MariaDB, SAS, Tableau, Power BI, AWS EC2, GCP, SAP
