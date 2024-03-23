@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to Hunjoo's work storage. My goal is to become a ML engineer in "3 years".
-- ✨ Interests: 📊 Data Science, Statistics 💻 Machine Learning, Deep Learning, Computer Vision, Self-driving vehicle
+- ✨ Interests: 📊 Data Analysis, Statistics 💻 Machine Learning, Deep Learning, Computer Vision
 - 🔣 Language: Python, R, SQL
 - 📟 Software: SQLite, Microsoft SQL Server, MariaDB, SAS, Tableau, Power BI, AWS EC2, GCP, SAP
 - 🔧 Technical Skills: Data Modeling, Predictive Modeling, Data Visualization, ETL
